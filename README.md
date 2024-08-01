@@ -17,10 +17,10 @@ Garantizar el acceso equitativo y justo del agua para comunidades vulnerables y 
 Optimizar la eficiencia económica del uso del recurso hídrico, reduciendo costos operativos y aumentando la productividad a través de la gestión precisa y responsable del consumo de agua.
 
 # [MATERIALES NECESARIOS]
--ESP32-CAM
--4 Led´s
--4 Resistencias
--4 Trancistores
+- ESP32-CAM.
+- 4 Led´s.
+- 4 Resistencias.
+- 4 Trancistores.
 
 # [CIRCUITO ELECTRONICO]
 ![diagrama nivel](https://github.com/user-attachments/assets/2d0e6ca5-f4b7-4690-8364-bd0645c1e4ff)
