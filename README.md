@@ -21,9 +21,13 @@ Optimizar la eficiencia económica del uso del recurso hídrico, reduciendo cost
 - 4 Led´s.
 - 4 Resistencias.
 - 4 Trancistores.
+- FTDI232.
 
 # [CIRCUITO ELECTRONICO]
 ![diagrama nivel](https://github.com/user-attachments/assets/2d0e6ca5-f4b7-4690-8364-bd0645c1e4ff)
+
+# [DIAGRAMA DE FLUJO]
+![image](https://github.com/user-attachments/assets/ee9d14ed-54b8-485b-bf6e-daa499f22628)
 
 # [SERVICIOS]
 El producto a entregar en este proyecto es una plataforma web de monitoreo y control de medidores de captación de agua. Esta plataforma permitirá a los usuarios realizar un seguimiento en tiempo real del consumo de agua y gestionar el uso del recurso hídrico de manera eficiente.
